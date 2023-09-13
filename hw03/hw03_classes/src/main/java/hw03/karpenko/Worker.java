@@ -1,4 +1,4 @@
-package hw03_classes.src.main.java.hw03.karpenko;
+package hw03.karpenko;
 
 import java.util.ArrayList;
 import java.util.List;
